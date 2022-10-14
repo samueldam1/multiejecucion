@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MultiEjecucion:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MultiEjecucion_jar</output-path>
+    <root id="archive" name="MultiEjecucion.jar">
+      <element id="module-output" name="MultiEjecucion" />
+    </root>
+  </artifact>
+</component>
